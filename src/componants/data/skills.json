@@ -1,0 +1,34 @@
+[
+  {
+    "title": "HTML",
+    "imgSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imgSrc": "skills/css.png"
+  },
+  {
+    "title": "JavaScript",
+    "imgSrc": "skills/js.png"
+  },
+  {
+    "title": "ReactJs",
+    "imgSrc": "skills/rj.png"
+  },
+  {
+    "title": "Redux",
+    "imgSrc": "skills/redux.png"
+  },
+  {
+    "title": "DOM Manipulation",
+    "imgSrc": "skills/dom.png"
+  },
+  {
+    "title": "Taiwind Css",
+    "imgSrc": "skills/taiwind.png"
+  },
+  {
+    "title": "Responsive Design",
+    "imgSrc": "skills/rsdesign.png"
+  }
+]

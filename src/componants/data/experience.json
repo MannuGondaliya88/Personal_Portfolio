@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "role": "Web-Designer",
+    "Organisation": "Lope Multimedia & Designing Institute",
+    "Experience": "Fresher",
+    "Location": "Surat",
+    "imgSrc": "company/lope.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Nursing Staff",
+    "Organisation": "P.P.Savani Multi-Specility Hospital & Kiran Hospital",
+    "Experience": "10 Years Of Experience as a Nursing Staff",
+    "Location": "Surat",
+    "imgSrc": "company/hos.jpg"
+  }
+]
