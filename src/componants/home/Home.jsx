@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from "react";
-import pdf from "../../pdf/MANISHA_WEBDESIGN_CV.pdf";
+import pdf from "../../pdf/Mannu_Webdesign_cv.pdf";
 import hero from "../data/hero.json";
 import "../styles/Home.css";
 import Typed from "typed.js";
@@ -26,7 +26,7 @@ function Home() {
 
   return (
     <>
-      <div className="container home">
+      <div className="container home" id="home">
         <div className="left" data-aos="fade-up-right" data-aos-duration="1000">
           <h1 ref={typedRef}></h1>
           <a
